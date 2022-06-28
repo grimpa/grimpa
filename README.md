@@ -1,7 +1,6 @@
-#### Hi there! :technologist:
+#### Hi there, I'm João! :technologist:
+##### I'm a Full Stack Software Developer with 12+ years of experience. Currently working with web applications and cloud computing.
 
-<!-- div align="center">
-  <a href="https://github.com/grimpa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grimpa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimpa&langs_count=7&theme=dark"/>
-</👨‍💻div -->
+<a href="https://www.linkedin.com/in/joaogallijr/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
